@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Judgement Demo Data were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://krasa.dev
+Data file = D:\Projects\PHP\krasa/wp-content/uploads/2017/11/demo-content-import-file_2017-11-04__12-49-59.xml
+Widget file = D:\Projects\PHP\krasa/wp-content/uploads/2017/11/demo-widgets-import-file_2017-11-04__12-49-59.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Скорашњи чланци - No Title - Imported
+Категорије - No Title - Widget already exists
+Архиве - No Title - Widget already exists
+
+Top Bar Left : 
+
+Текст - No Title - Imported
+
+Top Bar Right : 
+
+Текст - No Title - Imported
+
+Header Left : 
+
+Текст - 1500 200 900 - Imported
+Текст - Goldsmith Hall, - Imported
+
+Header Right : 
+
+Текст - No Title - Imported
+
+Pages Sidebar : 
+
+Advanced Sidebar Pages Menu - No Title - Imported
+Текст - Our Brochure - Imported
+
+Footer Column 1 : 
+
+Текст - About our Firm - Imported
+
+Footer  Column 2 : 
+
+Текст - Practice Areas - Imported
+
+Footer  Column 3 : 
+
+Текст - New York - Imported
+
+Footer  Column 4 : 
+
+Текст - London - Imported
+
+
+
+---pt-ocdi/after_import---
+

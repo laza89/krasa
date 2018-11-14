@@ -1,0 +1,246 @@
+/* --------------------------------------------------------------
+Elementor Styles
+-------------------------------------------------------------- */
+
+body .elementor-section.elementor-section-boxed > .elementor-container {
+   	max-width: 1170px;
+}
+
+.elementor {
+ 	margin-left: -15px;
+ 	margin-right: -15px;
+}
+
+/* -- Accordion -- */
+
+body .elementor-widget-accordion .elementor-accordion .elementor-accordion-title,
+body .elementor-widget-accordion .elementor-accordion .elementor-accordion-content {
+ 	font-family: inherit;
+ 	font-weight: inherit;
+ 	line-height: 1.4em;
+}
+
+.content-area .elementor-text-editor > h1:first-child, 
+.content-area .elementor-text-editor > h2:first-child, 
+.content-area .elementor-text-editor > h3:first-child, 
+.content-area .elementor-text-editor > h4:first-child, 
+.content-area .elementor-text-editor > h5:first-child {
+    margin-top: 0px;
+}
+
+.elementor-accordion p {
+	margin-bottom: 0px;
+}
+
+/* -- Images -- */
+
+.elementor-image a {
+	display: block;
+	position: relative;
+}
+
+.elementor-image a:after {
+	content: "";
+	display: block;
+	height: 100%;
+	width: 100%;
+	background: rgba(0,0,0,0.15);
+	position: absolute;
+	top: 0px;
+	transition: all 0.2s ease 0s;
+	opacity: 0;
+}
+
+.elementor-image a:hover:after {
+    opacity: 1;
+}
+
+/* -- Progress Bars -- */
+
+body .elementor-progress-bar {
+	font-size: 13px;
+}
+
+/* -- Icon List -- */
+
+body .elementor-widget-icon-list .elementor-icon-list-text {
+	color: inherit;
+	font-family: inherit;
+    font-weight: inherit;
+}
+
+/* -- Testimonial -- */
+
+body .elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image img {
+	position: relative;
+	top: 3px;
+}
+
+body .elementor-widget-testimonial .elementor-testimonial-content,
+body .elementor-widget-testimonial .elementor-testimonial-name,
+body .elementor-widget-testimonial .elementor-testimonial-job {
+	font-family: inherit;
+	font-weight: inherit;
+}
+
+/* -- Tabs -- */
+
+.elementor-tabs {
+	margin-top: 8px;
+}
+
+body .elementor-widget-tabs .elementor-tab-title {
+	font-family: inherit;
+    font-weight: inherit;
+}
+
+body .elementor-widget-tabs .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title.active {
+	color: inherit;
+}
+
+body .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title > span {
+	font-weight: 400;
+	font-family: inherit;
+}
+
+body .elementor-widget-tabs .elementor-tab-content {
+	color: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+}
+
+body .elementor-tabs .elementor-tab-content {
+	padding: 30px 28px 10px 28px;
+}
+
+body .elementor-widget-tabs .elementor-tab-title > span {
+	font-family: inherit;
+}
+
+body .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title>span {
+	padding-left: 27px;
+	padding-right: 27px;
+}
+
+.elementor-widget-tabs .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title.active {
+	border-top: 2px solid #111;
+}
+
+body .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title.active>span {
+	border-top: none;
+	color: #111;
+	font-weight: 700;
+}
+
+@media only screen and (max-width: 768px) {
+
+	body .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title {
+		display: block;
+	}
+
+	.elementor-tabs .elementor-tabs-wrapper .elementor-tab-title {
+		border-left: 1px solid #eee;
+	    border-right: 1px solid #eee;
+	    border-top: 1px solid #eee;
+	}
+
+	.elementor-tabs .elementor-tabs-wrapper .elementor-tab-title:last-child {
+		border-bottom: 1px solid #eee;
+	}
+
+	.elementor-widget-tabs .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title.active {
+		border-left: none;
+		border-right: none;
+		border-bottom: none;
+	}
+
+	body .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title>span {
+		padding: 18px 15px;
+	}
+
+	body .elementor-tabs .elementor-tab-content {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+}
+
+/* -- Headings -- */
+
+body .elementor-widget-text-editor {
+	color: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+}
+
+body .elementor-widget-heading .elementor-heading-title {
+	font-family: inherit;
+    font-weight: inherit;
+    line-height: 1.45em;
+}
+
+/* -- Counters -- */
+
+body .elementor-widget-counter .elementor-counter-title {
+	color: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+}
+
+body .elementor-widget-counter .elementor-counter-number-wrapper {
+	font-family: inherit;
+}
+
+body .elementor-widget-counter .elementor-counter-number-wrapper {
+    font-size: 110px;
+}
+
+/* -- Buttons -- */
+
+.elementor-widget-button .elementor-button {
+	padding: 20px 30px;
+}
+
+/* -- Responsive -- */
+
+
+@media only screen and (max-width: 992px) {
+
+	body .elementor-column-gap-default .elementor-element-populated {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.elementor-accordion {
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+
+	.elementor-column-gap-extended .elementor-accordion {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+
+	.elementor-widget-progress {
+		margin-left: 8px;
+		margin-right: 8px;
+	}
+
+	body .elementor-widget-accordion .elementor-accordion .elementor-accordion-content {
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+
+	.hide-bg-mobile {
+    	background-image: none !important;
+	}
+
+}
+
+@media only screen and (max-width: 768px) {
+
+	body .elementor-align-right {
+		text-align: left;
+	}
+
+}

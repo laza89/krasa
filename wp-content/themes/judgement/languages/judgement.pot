@@ -1,0 +1,820 @@
+# Copyright (C) 2017 CreateandCode
+# This file is distributed under the same license as the CreateandCode package.
+msgid ""
+msgstr ""
+"Project-Id-Version: CreateandCode\n"
+"Report-Msgid-Bugs-To: https://createandcode.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Colm Troy <colm@createandcode.com>\n"
+"Language-Team: CreateandCode Team <support@createandcode.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:35
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: comments.php:25
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:31, comments.php:48
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:33, comments.php:50
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:34, comments.php:51
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:51
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:51
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:53
+msgid "Theme: %2$s by %1$s."
+msgstr ""
+
+#: functions.php:98
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:99
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:100
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:101
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:102
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:103
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:104
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:105
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:106
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:107
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:108
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:109
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:110
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:111
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:112
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:113
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:114
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:129
+msgid "After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#: functions.php:200
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:271
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:273
+msgid "Main sidebar."
+msgstr ""
+
+#: functions.php:281
+msgid "Top Bar Left"
+msgstr ""
+
+#: functions.php:283
+msgid "This widget area appears in the top left of the screen in the top bar."
+msgstr ""
+
+#: functions.php:290
+msgid "Top Bar Right"
+msgstr ""
+
+#: functions.php:292
+msgid "This widget area appears in the top right of the screen in the top bar."
+msgstr ""
+
+#: functions.php:299
+msgid "Header Left"
+msgstr ""
+
+#: functions.php:301
+msgid "This widget area appears in the top left of the header."
+msgstr ""
+
+#: functions.php:308
+msgid "Header Right"
+msgstr ""
+
+#: functions.php:310
+msgid "This widget area appears in the top right of the header."
+msgstr ""
+
+#: functions.php:318
+msgid "Pages Sidebar"
+msgstr ""
+
+#: functions.php:320
+msgid "This widget appears on pages only."
+msgstr ""
+
+#: functions.php:328
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:330
+msgid "The first footer widget area."
+msgstr ""
+
+#: functions.php:337
+msgid "Footer  Column 2"
+msgstr ""
+
+#: functions.php:339
+msgid "The second footer widget area."
+msgstr ""
+
+#: functions.php:346
+msgid "Footer  Column 3"
+msgstr ""
+
+#: functions.php:348
+msgid "The third footer widget area."
+msgstr ""
+
+#: functions.php:355
+msgid "Footer  Column 4"
+msgstr ""
+
+#: functions.php:357
+msgid "The fourth footer widget area."
+msgstr ""
+
+#: inc/customizer/fields/color.php:10
+msgid "Primary Swatch Color"
+msgstr ""
+
+#: inc/customizer/fields/color.php:11
+msgid "Select the primary color of your brand."
+msgstr ""
+
+#: inc/customizer/fields/color.php:130
+msgid "Text on the primary swatch"
+msgstr ""
+
+#: inc/customizer/fields/color.php:131
+msgid "Select the color of text on the primary swatch. (Usually white or black)"
+msgstr ""
+
+#: inc/customizer/fields/color.php:195
+msgid "General links"
+msgstr ""
+
+#: inc/customizer/fields/color.php:196
+msgid "Select your general links color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:219
+msgid "General link hover"
+msgstr ""
+
+#: inc/customizer/fields/color.php:220
+msgid "Select your general link hover color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:243
+msgid "Wrapper Background Color"
+msgstr ""
+
+#: inc/customizer/fields/color.php:244
+msgid "Select your wrapper background color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:260
+msgid "Top bar background"
+msgstr ""
+
+#: inc/customizer/fields/color.php:261
+msgid "Select your top bar background color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:284
+msgid "Top bar text"
+msgstr ""
+
+#: inc/customizer/fields/color.php:285
+msgid "Select your top bar text color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:309
+msgid "Header background"
+msgstr ""
+
+#: inc/customizer/fields/color.php:310
+msgid "Select your header background color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:333
+msgid "Site title"
+msgstr ""
+
+#: inc/customizer/fields/color.php:334
+msgid "Select your site title color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:357
+msgid "Site description"
+msgstr ""
+
+#: inc/customizer/fields/color.php:358
+msgid "Select your site description color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:381
+msgid "Header text"
+msgstr ""
+
+#: inc/customizer/fields/color.php:382
+msgid "Select your header text color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:406
+msgid "First footer background color"
+msgstr ""
+
+#: inc/customizer/fields/color.php:407
+msgid "Select your first footer background color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:430
+msgid "First footer text color"
+msgstr ""
+
+#: inc/customizer/fields/color.php:431
+msgid "Select your first footer text color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:454
+msgid "First footer links"
+msgstr ""
+
+#: inc/customizer/fields/color.php:455
+msgid "Select your first footer links color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:478
+msgid "First footer link hover"
+msgstr ""
+
+#: inc/customizer/fields/color.php:479
+msgid "Select your first footer link hover color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:503
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/customizer/fields/color.php:504
+msgid "Select your copyright background color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:527
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/customizer/fields/color.php:528
+msgid "Select your copyright text color."
+msgstr ""
+
+#: inc/customizer/fields/color.php:551
+msgid "Copyright Links Color"
+msgstr ""
+
+#: inc/customizer/fields/color.php:552
+msgid "Select your copyright links color."
+msgstr ""
+
+#: inc/customizer/fields/general.php:10, inc/customizer/sections/general.php:26
+msgid "Logo Height"
+msgstr ""
+
+#: inc/customizer/fields/general.php:11
+msgid "Adjust the height of your logo in pixels."
+msgstr ""
+
+#: inc/customizer/fields/help.php:9
+msgid "Premium Customer Support"
+msgstr ""
+
+#: inc/customizer/fields/help.php:11
+msgid "judgement is provided as is. judgement Pro provides tons of additional features, including premium customer support. Check it out on https://createandcode.com"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:10
+msgid "Top bar"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:11
+msgid "Show or hide the Top bar?"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:17, inc/customizer/fields/layout.php:48
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:18, inc/customizer/fields/layout.php:49
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:26
+msgid "Default Page Heading Image"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:27
+msgid "Upload an image at least 1400px wide."
+msgstr ""
+
+#: inc/customizer/fields/layout.php:41
+msgid "Show Footer?"
+msgstr ""
+
+#: inc/customizer/fields/layout.php:42
+msgid "Show or hide the Footer?"
+msgstr ""
+
+#: inc/customizer/fields/typography.php:8
+msgid "Font settings"
+msgstr ""
+
+#: inc/customizer/fields/typography.php:33
+msgid "Headings and Main Menu"
+msgstr ""
+
+#: inc/customizer/fields/typography.php:51, inc/customizer/fields/typography.php:75, inc/customizer/fields/typography.php:101, inc/customizer/fields/typography.php:128, inc/customizer/fields/typography.php:155, inc/customizer/fields/typography.php:182, inc/customizer/fields/typography.php:209
+msgid "Font Settings"
+msgstr ""
+
+#: inc/customizer/fields/typography.php:52, inc/customizer/fields/typography.php:76, inc/customizer/fields/typography.php:102, inc/customizer/fields/typography.php:129, inc/customizer/fields/typography.php:156, inc/customizer/fields/typography.php:183, inc/customizer/fields/typography.php:210
+msgid "Select which font you would like to use"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:7
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:8
+msgid "Manage general theme settings"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:12
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:13
+msgid "Manage theme colors"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:17
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:18
+msgid "Manage theme typography"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:22
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:23
+msgid "Manage theme header, footer and more"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:27
+msgid "Help and Support"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:28
+msgid "Get help and support"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:32
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/panels/panels.php:33
+msgid "Manage blog settings"
+msgstr ""
+
+#: inc/customizer/sections/color.php:19
+msgid "General"
+msgstr ""
+
+#: inc/customizer/sections/color.php:22
+msgid "Manage general colors"
+msgstr ""
+
+#: inc/customizer/sections/color.php:26
+msgid "Layout Container"
+msgstr ""
+
+#: inc/customizer/sections/color.php:29
+msgid "Manage layout container colors"
+msgstr ""
+
+#: inc/customizer/sections/color.php:33
+msgid "Top Bar"
+msgstr ""
+
+#: inc/customizer/sections/color.php:36
+msgid "Manage top bar colors"
+msgstr ""
+
+#: inc/customizer/sections/color.php:40
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/sections/color.php:43
+msgid "Manage header colors"
+msgstr ""
+
+#: inc/customizer/sections/color.php:47
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/sections/color.php:50
+msgid "Manage footer colors"
+msgstr ""
+
+#: inc/customizer/sections/general.php:19
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/sections/general.php:22
+msgid "Upload your logo"
+msgstr ""
+
+#: inc/customizer/sections/general.php:29
+msgid "Modify the height of your logo"
+msgstr ""
+
+#: inc/customizer/sections/general.php:33
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/sections/general.php:36
+msgid "Manage your Footer copyright text"
+msgstr ""
+
+#: inc/customizer/sections/help.php:13, inc/setup/help.php:66, inc/setup/help.php:67
+msgid "Judgement Help"
+msgstr ""
+
+#: inc/customizer/sections/help.php:16
+msgid "Get help"
+msgstr ""
+
+#: inc/customizer/sections/help.php:19
+msgid "Judgement Support"
+msgstr ""
+
+#: inc/customizer/sections/help.php:22
+msgid "Get premium customer support"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:13
+msgid "Top Bar Settings"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:16
+msgid "Manage the top bar"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:20
+msgid "Page Heading Settings"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:23
+msgid "You can also upload a page specific image via the \"Featured Image\" option when editing a post or page."
+msgstr ""
+
+#: inc/customizer/sections/layout.php:27
+msgid "Footer Layout Settings"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:30
+msgid "Manage Footer Layout"
+msgstr ""
+
+#: inc/customizer/sections/typography.php:14
+msgid "Main Body"
+msgstr ""
+
+#: inc/customizer/sections/typography.php:17
+msgid "Font for the main body text"
+msgstr ""
+
+#: inc/customizer/sections/typography.php:22
+msgid "Menu and Headings"
+msgstr ""
+
+#: inc/customizer/sections/typography.php:25
+msgid "Font for the menu and headings"
+msgstr ""
+
+#: inc/include-kirki.php:46
+msgid "The Kirki Toolkit plugin is installed but not activated. Please <strong><a href=\"%s\">activate it</a></strong> in order to take full advantage of the theme's options."
+msgstr ""
+
+#: inc/include-kirki.php:66
+msgid "If you want to take full advantage of the options this theme has to offer, please install the companion Kirki Toolkit plugin."
+msgstr ""
+
+#: inc/setup/help.php:45
+msgid "Thanks for choosing Judgement! You can read hints and tips on how get the most out of your new theme in the %sHelp Centre%s."
+msgstr ""
+
+#: inc/setup/help.php:46
+msgid "Get started with Judgement"
+msgstr ""
+
+#: inc/setup/help.php:83
+msgid "Judgement Help Centre"
+msgstr ""
+
+#: inc/setup/help.php:84
+msgid "Everything you need to know to get the most out of Judgement."
+msgstr ""
+
+#: inc/setup/help.php:86
+msgid "Getting Started"
+msgstr ""
+
+#: inc/setup/help.php:87
+msgid "Changelog"
+msgstr ""
+
+#: inc/setup/help.php:88
+msgid "Get the Pro Version"
+msgstr ""
+
+#: inc/setup/sections/changelog.php:13
+msgid "Judgement Changelog"
+msgstr ""
+
+#: inc/setup/sections/changelog.php:17
+msgid "Version 1.0 - 16 January 2017."
+msgstr ""
+
+#: inc/setup/sections/changelog.php:18
+msgid "Initial Release."
+msgstr ""
+
+#: inc/setup/sections/freepro.php:13
+msgid "Get Judgement Pro"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:17
+msgid "Why Judgement Pro?"
+msgstr ""
+
+#: inc/setup/sections/freepro.php:18
+msgid "Go to the next level with Judgement Pro. With additional features such as premium support, WooCommerce intergration, WPML compatibility, RTL support and additional Theme Options for even greater customization it has everything you need."
+msgstr ""
+
+#: inc/setup/sections/freepro.php:19, inc/setup/sections/intro.php:21
+msgid "Check out Judgement Pro"
+msgstr ""
+
+#: inc/setup/sections/intro.php:13
+msgid "Welcome to Judgement!"
+msgstr ""
+
+#: inc/setup/sections/intro.php:15
+msgid "Thanks for installing Judgement! You have made a great choice! The Judgement Help Centre will help you get going using Judgement as quickly as possible."
+msgstr ""
+
+#: inc/setup/sections/intro.php:19
+msgid "Customer Support"
+msgstr ""
+
+#: inc/setup/sections/intro.php:20
+msgid "Spend some time to go through all the information provided in the Help Centre. If you need some extra help with Judgement we also have Judgement Pro which is an enhanced version of judgement that offers premium customer support for those that need it."
+msgstr ""
+
+#: inc/setup/sections/intro.php:29
+msgid "How do I customize the theme?"
+msgstr ""
+
+#: inc/setup/sections/intro.php:31
+msgid "The Judgement Theme Customizer enables you to customize many elements of the theme directly without any coding skills. This includes options such as uploading your logo, changing the primary color, and much more."
+msgstr ""
+
+#: inc/setup/sections/intro.php:32
+msgid "Launch the Judgement Theme Customizer"
+msgstr ""
+
+#: inc/setup/sections/intro.php:43
+msgid "Judgement Theme Documentation"
+msgstr ""
+
+#: inc/setup/sections/intro.php:44
+msgid "We provide lots of theme documentation articles including a detailed installation and setup guide on our website."
+msgstr ""
+
+#: inc/setup/sections/intro.php:45
+msgid "View Judgement Theme Documentation"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:130
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:139, inc/template-tags.php:143
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:151
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:151
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:151
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:167, inc/template-tags.php:173
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:169
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:279
+msgid "Read More"
+msgstr ""
+
+#: inc/template-tags.php:281, inc/template-tags.php:337, template-parts/content-fullwidthpage.php:14, template-parts/content-page.php:13
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-tags.php:367
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:367, inc/template-tags.php:386
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:377
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/template-tags.php:383
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:390
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: index.php:36
+msgid "Latest Posts"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: trt-customize-pro/example-1/class-customize.php:76
+msgid "Judgement Pro"
+msgstr ""
+
+#: trt-customize-pro/example-1/class-customize.php:77
+msgid "View Pro Features"
+msgstr ""
