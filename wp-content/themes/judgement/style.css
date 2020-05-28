@@ -2524,7 +2524,7 @@ h1.ccfw-site-title {
 
 .ccfw-header-details {
   float: right;
-  margin-right: 12px;
+  /*margin-right: 12px;*/
 }
 
 .ccfw-header-details .widget,
